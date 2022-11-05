@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello Git!");
         System.out.println("Git Commit Ted");
         System.out.println("Git Get Go");
-
+        System.out.println("");
     }
 }
